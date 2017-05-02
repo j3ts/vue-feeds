@@ -27,6 +27,9 @@ A curated list of awesome Vue.js resources.
 * [vonic](https://github.com/wangdahoo/vonic) - Mobile UI Components, based on Vue.js and ionic CSS
 * [vue-shortkey](https://github.com/iFgR/vue-shortkey) - Vue-ShortKey - plugin for Vue.js
 * [vue-meta](https://github.com/declandewet/vue-meta) - Manage page meta info in Vue 2.0 components. SSR + Streaming supported
+* [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
+* [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) - Mobile-friendly picture file input Vue.js component with image preview, drag and drop, EXIF orientation, and more
+* [poi](https://github.com/egoist/poi) - Rapid web development.
 
 ## Tutorials
 
