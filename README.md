@@ -34,6 +34,7 @@ A curated list of awesome Vue.js resources.
 ## Tutorials
 
 * [Building an awesome reusable autocomplete input component](http://taha-sh.com/blog/building-an-awesome-reusable-autocomplete-input-component-in-vue-21-part-one)
+* [improving ui animation workflow velocity js](https://css-tricks.com/improving-ui-animation-workflow-velocity-js/)
 
 ## Articles
 
