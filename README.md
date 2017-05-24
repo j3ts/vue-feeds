@@ -6,6 +6,7 @@ A curated list of awesome Vue.js resources.
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Testing](#testing)
+- [Misc](#misc)
 
 ---
 
@@ -29,16 +30,21 @@ A curated list of awesome Vue.js resources.
 * [vue-meta](https://github.com/declandewet/vue-meta) - Manage page meta info in Vue 2.0 components. SSR + Streaming supported
 * [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 * [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) - Mobile-friendly picture file input Vue.js component with image preview, drag and drop, EXIF orientation, and more
-* [poi](https://github.com/egoist/poi) - Rapid web development.
+* [poi](https://github.com/egoist/poi) - Rapid web development
+* [vue-scrollto](https://github.com/rigor789/vue-scrollto) - Adds a directive that listens for click events and scrolls to elements
 
 ## Tutorials
 
 * [Building an awesome reusable autocomplete input component](http://taha-sh.com/blog/building-an-awesome-reusable-autocomplete-input-component-in-vue-21-part-one)
-* [improving ui animation workflow velocity js](https://css-tricks.com/improving-ui-animation-workflow-velocity-js/)
+* [Improving ui animation workflow velocity js](https://css-tricks.com/improving-ui-animation-workflow-velocity-js/)
+* [Integrating Nuxt into your Feathers application](https://blog.feathersjs.com/ssr-vuejs-app-with-feathers-and-nuxt-bb7dfd3e6397)
+* [Debugging Nuxt.js with Visual Studio Code](https://medium.com/@marshallswain/debugging-nuxt-js-with-visual-studio-code-724920140b8f)
+* [The Power of Custom Directives in Vue](https://css-tricks.com/power-custom-directives-vue/)
 
 ## Articles
 
 * [Continuous integration gitlab](http://vuetips.com/introduction-continuous-integration-gitlab)
+* [Use Any Javascript Library With Vue.js](http://vuejsdevelopers.com/2017/04/22/vue-js-libraries-plugins/)
 
 ## Testing
 
@@ -47,3 +53,7 @@ A curated list of awesome Vue.js resources.
 * [Mock Vuex in Vue unit tests](https://www.coding123.org/mock-vuex-in-vue-unit-tests/)
 * [Vue.js Unit Testing with Karma and Mocha](https://alligator.io/vuejs/unit-testing-karma-mocha/)
 * [Writing Vue.js Components with Flow](https://alligator.io/vuejs/components-flow/)
+
+## Misc
+
+* [vuejs-component-style-guide](https://pablohpsilva.github.io/vuejs-component-style-guide/#/chinese) - This guide provides a uniform way to structure your Vue.js code
