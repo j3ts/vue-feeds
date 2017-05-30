@@ -40,6 +40,8 @@ A curated list of awesome Vue.js resources.
 * [Integrating Nuxt into your Feathers application](https://blog.feathersjs.com/ssr-vuejs-app-with-feathers-and-nuxt-bb7dfd3e6397)
 * [Debugging Nuxt.js with Visual Studio Code](https://medium.com/@marshallswain/debugging-nuxt-js-with-visual-studio-code-724920140b8f)
 * [The Power of Custom Directives in Vue](https://css-tricks.com/power-custom-directives-vue/)
+* [A progressive web application with vue js webpack material design part 1](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402)
+* [A progressive web application with vue js webpack material design part 2](https://medium.com/@kevinj_50886/a-progressive-web-application-with-vue-js-webpack-material-design-part-2-a5f19e70e08b)
 
 ## Articles
 
